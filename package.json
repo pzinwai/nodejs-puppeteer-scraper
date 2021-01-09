@@ -1,0 +1,15 @@
+{
+  "name": "nodejs-puppeteer-scraper",
+  "version": "1.0.0",
+  "description": "Scrape wikipedia for COVID-19 data.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Phyo Zin Wai",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "puppeteer": "^5.5.0"
+  }
+}
